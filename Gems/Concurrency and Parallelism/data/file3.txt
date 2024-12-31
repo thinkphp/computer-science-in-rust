@@ -1,1 +1,9 @@
-
+Explanation
+Concurrency
+Thread-based concurrency:
+Each file is processed concurrently using std::thread::spawn.
+A shared Mutex wrapped in an Arc ensures thread-safe access to the shared total count.
+Parallelism
+Data parallelism with Rayon:
+The file paths are processed in parallel using Rayon’s par_iter for simplicity and efficiency.
+Each file’s content is processed independently on multiple threads.
