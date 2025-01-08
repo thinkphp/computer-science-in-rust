@@ -1,4 +1,4 @@
-# Introduction to Rust - Stanford Coursework
+# Computer Science in Rust
 
 ## Course Overview
 This course introduces the Rust programming language, focusing on its unique features and common programming paradigms. By the end of this course, students will have a solid foundation in Rust programming and be able to write safe, concurrent, and efficient code.
