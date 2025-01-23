@@ -405,7 +405,9 @@ Hundreds of companies, large and small, use Rust in production for a variety of 
 
 - (...)
 
-<details><summary>Interview Questions </summary>    
-- https://github.com/imhq/rust-interview-handbook
-- https://www.turing.com/interview-questions/rust
+<details><summary>Interview Questions</summary>    
+
+    - https://github.com/imhq/rust-interview-handbook
+    - https://www.turing.com/interview-questions/rust
+    
 </details>
