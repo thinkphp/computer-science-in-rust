@@ -404,3 +404,6 @@ Hundreds of companies, large and small, use Rust in production for a variety of 
 ## Books:
 
 - (...)
+
+### interview Questions 
+- https://www.turing.com/interview-questions/rust
