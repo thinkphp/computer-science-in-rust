@@ -396,9 +396,10 @@ fn euclid(a: u32, b: u32) -> u32 {
 Hundreds of companies, large and small, use Rust in production for a variety of tasks, including command line tools, web services, DevOps tooling, embedded devices, audio and video analysis and transcoding, cryptocurrencies, bioinformatics, search engines, Internet of Things applications, machine learning, and even major parts of the Firefox web browser.
 
 ## References
+* https://doc.rust-lang.org/stable/book/
+* https://doc.rust-lang.org/stable/rust-by-example
 * https://cs.lmu.edu/~ray/notes/introrust/
 * https://stevedonovan.github.io/rust-gentle-intro/
-* https://doc.rust-lang.org/stable/rust-by-example
 * https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/#the-rust-bookshelf
 * https://www.coursera.org/specializations/programming-with-rust
 
