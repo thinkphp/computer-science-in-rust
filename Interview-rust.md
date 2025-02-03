@@ -49,6 +49,8 @@ Pentru a trece cu succes un interviu și a te angaja ca programator Rust, ar tre
    - **Adaptabilitate**: Folosește experiența ta în Python pentru a înțelege cum să aplici concepte similare în Rust.
 
 
+___
+
 
 Rust is a programming language that has gained popularity in recent years due to its performance, safety, and concurrency. To successfully pass an interview and get hired as a Rust developer, you should focus on the following aspects:
 
