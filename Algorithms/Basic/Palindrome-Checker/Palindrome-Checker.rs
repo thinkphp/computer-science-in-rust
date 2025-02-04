@@ -14,3 +14,11 @@ fn is_palindrome(s: &str) -> bool {
     }
     true
 }
+
+fn main() {
+    let test_cases = ["racecar", "hello", "A man, a plan, a canal: Panama", "12321", "not a palindrome"];
+    
+    for &s in &test_cases {
+        println!("\"{}\" is a palindrome? {}", s, is_palindrome(s));
+    }
+}
