@@ -110,4 +110,5 @@ Pentru a impresiona la un interviu folosind Rust, este important să alegi proie
 - **Optimizează performanța**: Folosește `cargo bench` pentru a măsura și îmbunătăți performanța.
 - **Folosește Git**: Arată că poți gestiona un proiect folosind Git și că poți scrie mesaje de commit clare.
 
-Aceste proiecte nu doar că te vor ajuta să înveți Rust în profunzime, dar vor și impresiona angajatorii prin complexitatea și calitatea codului scris.
+### Jobs:
+- https://application.nxlog.org/jobs/detail/senior-rust-developer-53
