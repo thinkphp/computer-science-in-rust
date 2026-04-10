@@ -408,7 +408,7 @@ Hundreds of companies, large and small, use Rust in production for a variety of 
 
 ## Books:
 
-- (...)
+- The Rust Programming, Edition 3 https://doc.rust-lang.org/book/
 
 <details><summary>Interview Questions</summary>    
 
