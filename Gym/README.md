@@ -11,3 +11,4 @@
 - Sherlock and Array https://www.hackerrank.com/challenges/sherlock-and-array/problem
 - Sherlock and GCD https://www.hackerrank.com/challenges/sherlock-and-gcd/problem
 - Container with most water https://leetcode.com/problems/container-with-most-water/description/
+- Maximum Neighborshood https://codeforces.com/contest/2170/problem/A
