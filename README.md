@@ -3,6 +3,9 @@
 ## Course Overview
 This course introduces the Rust programming language, focusing on its unique features and common programming paradigms. By the end of this course, students will have a solid foundation in Rust programming and be able to write safe, concurrent, and efficient code.
 
+## Roadmap
+- https://roadmap.sh/rust
+
 ## Lesson 1: Rust Basics and Variables
 
 ### 1.1 Hello, World!
